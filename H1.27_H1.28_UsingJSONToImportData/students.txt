@@ -1,0 +1,1 @@
+[{"name":"Coco","profile":"Embedded C","yearOfStudy":2},{"name":"Ana","profile":"AI","yearOfStudy":2},{"name":"Ion","profile":"Data Structure","yearOfStudy":3},{"name":"Mihaela","profile":"Architecture","yearOfStudy":4}]
